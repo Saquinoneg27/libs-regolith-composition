@@ -8,10 +8,7 @@ This repository contains the code and data for analyzing Laser-Induced Breakdown
 .
 ├── Spectra/
 │   ├── Earth/
-│   ├── Elements/
-│   ├── gra/
 │   ├── Mars/
-│   ├── Regoliths/
 │   ├── Vacuum/
 │   └── *.xlsx, *.txt files
 ├── Codes/
@@ -64,16 +61,9 @@ python Codes/PLS/PLS.py
 
 ## Citation
 
-If you use this code or data in your research, please cite:
+If you use this code or data in your research, once published a citation will be provided:
 
-```bibtex
-@article{hurtatis2025spectroscopic,
-  title={Spectroscopic Regression of Simulant Regolith via LIBS},
-  author={Hurtatis et al.},
-  journal={In review},
-  year={2025}
-}
-```
+
 
 ## License
 
@@ -85,4 +75,4 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Acknowledgments
 
-This work was conducted in collaboration with Brno University of Technology. We thank all contributors and researchers involved in the data collection and analysis process. 
+This work was conducted at Brno University of Technology. We thank all contributors and researchers involved in the data collection and analysis process. 
