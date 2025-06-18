@@ -13,7 +13,6 @@ This repository contains the code and data for analyzing Laser-Induced Breakdown
 │   └── *.xlsx, *.txt files
 ├── Codes/
 │   ├── CNN_Classification_R/
-│   ├── MLP_Composition_R/
 │   ├── PCR/
 │   └── PLS/
 ```
