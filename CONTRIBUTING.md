@@ -2,15 +2,6 @@
 
 Thank you for your interest in contributing to this project! This document provides guidelines for submitting contributions.
 
-## Code Style
-
-All Python code should follow [PEP 8](https://www.python.org/dev/peps/pep-0008/) style guidelines. Key points:
-
-- Use 4 spaces for indentation
-- Maximum line length of 79 characters
-- Use meaningful variable names
-- Add docstrings for functions and classes
-- Include type hints where appropriate
 
 ## Pull Request Process
 
@@ -34,16 +25,9 @@ Use semantic commit messages following this format:
 
 ## Citation
 
-If you use this code or data in your research, please cite:
+If you use this code or data in your research, in the future a reference will be proovided:
 
-```bibtex
-@article{hurtatis2025spectroscopic,
-  title={Spectroscopic Regression of Simulant Regolith via LIBS},
-  author={Hurtatis et al.},
-  journal={In review},
-  year={2025}
-}
-```
+
 
 ## Questions or Issues?
 
